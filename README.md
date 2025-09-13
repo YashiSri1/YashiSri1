@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Yashi Srivastava
 
 💻 Passionate about coding and problem-solving  
-🚀 Exploring Data Structures, Algorithms, and Web Development  
-📚 Currently learning: [Your current learning topic]  
+🚀 Exploring Data Structures, Algorithms, and Web Development .  
 🌱 Open to collaboration on interesting projects  
 
 ---
 
 ## 🔧 Technologies & Tools
-- Languages: C++, Python, JavaScript  
+- Languages: C++, C, Python, JavaScript  
 - Web: HTML, CSS, React  
 - Tools: Git, GitHub, VS Code  
 
